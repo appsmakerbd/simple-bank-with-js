@@ -1,0 +1,18 @@
+.login-area,.transaction-area{
+    margin-top:100px;
+    margin-bottom: 100px;
+}
+
+.transaction-area{
+    display:none;
+}
+
+.small-box{
+    padding:10px;
+    margin: 0 40px;
+}
+
+.mid-box-area{
+    margin:50px 25px;
+
+}
